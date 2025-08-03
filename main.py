@@ -146,7 +146,6 @@ def sim_game(teams): #teams[0] is away, teams[1] is home
 
 #create teams
 liam_team = create_team("liam.txt")
-print_team(liam_team)
 dad_team = create_team("dad.txt")
 mom_team = create_team("mom.txt")
 audrey_team = create_team("audrey.txt")
